@@ -1241,7 +1241,7 @@ public class LevelsRanks : BasePlugin
         {
             var user = topPlayers[i];
             var playtime = TimeSpan.FromSeconds(user.Playtime);
-            var formattedPlaytime = $"{playtime.Days}д {playtime.Hours}ч {playtime.Minutes}м";
+            var formattedPlaytime = $"{playtime.Days}d {playtime.Hours}h {playtime.Minutes}m";
             menu?.AddMenuOption(
                 ReplaceColorPlaceholders(Localizer["top_player_activity_item", i + 1, formattedPlaytime, user.Name!]),
                 (p, option) => { });
@@ -1268,7 +1268,7 @@ public class LevelsRanks : BasePlugin
     private void ShowUserStats(CCSPlayerController player, User user)
     {
         var playtime = TimeSpan.FromSeconds(user.Playtime);
-        var formattedPlaytime = $"{playtime.Days}д {playtime.Hours}ч {playtime.Minutes}м";
+        var formattedPlaytime = $"{playtime.Days}d {playtime.Hours}h {playtime.Minutes}m";
 
         player.PrintToChat(ReplaceColorPlaceholders(Localizer["user_stats_title"]));
         player.PrintToChat(ReplaceColorPlaceholders(Localizer["user_stat_experience", user.Value]));
