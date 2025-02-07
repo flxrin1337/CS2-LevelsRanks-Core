@@ -1,0 +1,16 @@
+D:\dev\CS2-LevelsRanks-Core\Core\bin\Debug\net8.0\[LR] Core.deps.json
+D:\dev\CS2-LevelsRanks-Core\Core\bin\Debug\net8.0\[LR] Core.dll
+D:\dev\CS2-LevelsRanks-Core\Core\bin\Debug\net8.0\[LR] Core.pdb
+D:\dev\CS2-LevelsRanks-Core\Core\bin\Debug\net8.0\LevelsRanksApi.dll
+D:\dev\CS2-LevelsRanks-Core\Core\bin\Debug\net8.0\MenuManagerApi.dll
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.csproj.AssemblyReference.cache
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.AssemblyInfoInputs.cache
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.AssemblyInfo.cs
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.csproj.CoreCompileInputs.cache
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.sourcelink.json
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.csproj.Up2Date
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.dll
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\refint\[LR] Core.dll
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\[LR] Core.pdb
+D:\dev\CS2-LevelsRanks-Core\Core\obj\Debug\net8.0\ref\[LR] Core.dll

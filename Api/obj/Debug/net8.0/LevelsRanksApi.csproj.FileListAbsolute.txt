@@ -1,0 +1,13 @@
+D:\dev\CS2-LevelsRanks-Core\Api\bin\Debug\net8.0\LevelsRanksApi.deps.json
+D:\dev\CS2-LevelsRanks-Core\Api\bin\Debug\net8.0\LevelsRanksApi.dll
+D:\dev\CS2-LevelsRanks-Core\Api\bin\Debug\net8.0\LevelsRanksApi.pdb
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.csproj.AssemblyReference.cache
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.AssemblyInfoInputs.cache
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.AssemblyInfo.cs
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.csproj.CoreCompileInputs.cache
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.sourcelink.json
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.dll
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\refint\LevelsRanksApi.dll
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\LevelsRanksApi.pdb
+D:\dev\CS2-LevelsRanks-Core\Api\obj\Debug\net8.0\ref\LevelsRanksApi.dll
